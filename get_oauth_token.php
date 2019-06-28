@@ -16,7 +16,7 @@
  * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
  * FITNESS FOR A PARTICULAR PURPOSE.
  */
-/**
+/******
  * Get an OAuth2 token from an OAuth2 provider.
  * * Install this script on your server so that it's accessible
  * as [https/http]://<yourdomain>/<folder>/get_oauth_token.php
